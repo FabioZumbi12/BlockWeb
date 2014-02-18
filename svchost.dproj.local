@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012/11/13 15:44:37.329.pas,C:\Users\Edicao03\Documents\RAD Studio\Projects\Unit1.pas=C:\Projetos Delphi\BlockWeb\UBWeb.pas</Transaction>
+    <Transaction>2012/11/13 15:44:37.329.dfm,C:\Users\Edicao03\Documents\RAD Studio\Projects\Unit1.dfm=C:\Projetos Delphi\BlockWeb\UBWeb.dfm</Transaction>
+    <Transaction>2012/11/13 15:45:10.214.dproj,C:\Users\Edicao03\Documents\RAD Studio\Projects\Project1.dproj=C:\Projetos Delphi\BlockWeb\BlockWeb.dproj</Transaction>
+    <Transaction>2012/11/14 00:52:28.815.pas,C:\Projetos Delphi\BlockWeb\Unit1.pas=C:\Projetos Delphi\BlockWeb\USenha.pas</Transaction>
+    <Transaction>2012/11/14 00:52:28.815.dfm,C:\Projetos Delphi\BlockWeb\Unit1.dfm=C:\Projetos Delphi\BlockWeb\USenha.dfm</Transaction>
+    <Transaction>2012/12/04 17:39:55.211.dproj,C:\Projetos Delphi\BlockWeb\BlockWeb.dproj=C:\Projetos Delphi\BlockWeb\svchost.dproj</Transaction>
+    <Transaction>2012/12/05 19:43:38.000.124,C:\Projetos Delphi\BlockWeb\svchost.dproj=C:\Projetos Delphi\BlockWeb\svchost.dproj</Transaction>
+    <Transaction>2012/12/06 11:46:18.000.163,=C:\Projetos Delphi\BlockWeb\Unit1.pas</Transaction>
+    <Transaction>2012/12/06 11:47:30.000.484,C:\Projetos Delphi\BlockWeb\Unit1.dfm=C:\Projetos Delphi\BlockWeb\USobre.dfm</Transaction>
+    <Transaction>2012/12/06 11:47:30.000.484,C:\Projetos Delphi\BlockWeb\Unit1.pas=C:\Projetos Delphi\BlockWeb\USobre.pas</Transaction>
+    <Transaction>2012/12/06 12:27:38.000.851,=C:\Projetos Delphi\BlockWeb\Unit1.pas</Transaction>
+    <Transaction>2012/12/06 12:29:59.000.164,C:\Projetos Delphi\BlockWeb\Unit1.pas=C:\Projetos Delphi\BlockWeb\UUpdate.pas</Transaction>
+    <Transaction>2012/12/06 12:29:59.000.164,C:\Projetos Delphi\BlockWeb\Unit1.dfm=C:\Projetos Delphi\BlockWeb\UUpdate.dfm</Transaction>
+    <Transaction>2012/12/06 13:04:22.000.968,C:\Projetos Delphi\BlockWeb\UUpdate.pas=</Transaction>
+    <Transaction>2012/12/06 13:45:20.000.713,=C:\Projetos Delphi\BlockWeb\Unit1.pas</Transaction>
+    <Transaction>2012/12/06 13:46:18.000.802,C:\Projetos Delphi\BlockWeb\UUpdt.dfm=C:\Projetos Delphi\BlockWeb\Unit1.dfm</Transaction>
+    <Transaction>2012/12/06 13:46:18.000.802,C:\Projetos Delphi\BlockWeb\UUpdt.pas=C:\Projetos Delphi\BlockWeb\Unit1.pas</Transaction>
+    <Transaction>2012/12/11 21:42:25.000.672,=C:\Projetos Delphi\BlockWeb\Unit1.pas</Transaction>
+    <Transaction>2012/12/11 21:43:32.000.970,C:\Projetos Delphi\BlockWeb\USenADM.pas=C:\Projetos Delphi\BlockWeb\Unit1.pas</Transaction>
+    <Transaction>2012/12/11 21:43:32.000.970,C:\Projetos Delphi\BlockWeb\USenADM.dfm=C:\Projetos Delphi\BlockWeb\Unit1.dfm</Transaction>
+    <Transaction>2012/12/11 21:51:51.000.150,C:\Projetos Delphi\BlockWeb\USenADM.pas=</Transaction>
+    <Transaction>2013/04/14 18:54:33.000.418,=C:\Projetos Delphi\BlockWeb\Win64\Win7UAC.rc</Transaction>
+    <Transaction>2013/04/14 19:07:46.000.571,C:\Projetos Delphi\BlockWeb\Win64\Win7UAC.rc=</Transaction>
+    <Transaction>2013/04/14 19:08:03.000.800,=C:\Projetos Delphi\BlockWeb\Win64\Win8UAC.rc</Transaction>
+    <Transaction>2013/04/14 19:18:19.000.064,C:\Projetos Delphi\BlockWeb\Win64\Win8UAC.rc=</Transaction>
+    <Transaction>2013/04/14 19:33:46.000.735,=C:\Projetos Delphi\BlockWeb\Win32\Win8UAC32.rc</Transaction>
+    <Transaction>2013/04/14 19:34:09.000.567,C:\Projetos Delphi\BlockWeb\Win32\Win8UAC32.rc=</Transaction>
+    <Transaction>2013/04/14 19:34:14.000.472,=C:\Projetos Delphi\BlockWeb\Win64\Win8UAC64.rc</Transaction>
+    <Transaction>2013/04/14 19:36:34.000.726,C:\Projetos Delphi\BlockWeb\Win64\Win8UAC64.rc=</Transaction>
+    <Transaction>2013/04/14 22:13:43.000.177,=C:\Projetos Delphi\BlockWeb\Win32\Win8UAC32.rc</Transaction>
+    <Transaction>2013/04/14 22:14:34.000.379,C:\Projetos Delphi\BlockWeb\Win32\Win8UAC32.rc=</Transaction>
+    <Transaction>2013/04/14 22:14:50.000.000,=C:\Projetos Delphi\BlockWeb\Win64\Win8UAC64.rc</Transaction>
+    <Transaction>2013/04/14 22:16:18.000.031,C:\Projetos Delphi\BlockWeb\Win64\Win8UAC64.rc=</Transaction>
+    <Transaction>2013/04/14 22:18:54.000.220,=C:\Projetos Delphi\BlockWeb\Win64\Win8UAC64.rc</Transaction>
+    <Transaction>2013/04/14 22:20:53.000.881,C:\Projetos Delphi\BlockWeb\Win64\Win8UAC64.rc=</Transaction>
+    <Transaction>2013/04/14 22:21:02.000.967,=C:\Projetos Delphi\BlockWeb\Win32\Win8UAC32.rc</Transaction>
+    <Transaction>2013/04/14 22:30:36.000.723,=C:\Projetos Delphi\BlockWeb\Win64\Win8UAC64.rc</Transaction>
+    <Transaction>2013/04/24 21:12:18.985,=C:\Projetos Delphi\BlockWeb\Win64\svchost.exe.rc</Transaction>
+    <Transaction>2013/04/24 21:13:00.961,=C:\Projetos Delphi\BlockWeb\svchost.exe.rc</Transaction>
+    <Transaction>2013/04/24 21:13:17.672,C:\Projetos Delphi\BlockWeb\svchost.exe.rc=</Transaction>
+    <Transaction>2013/04/24 21:14:14.303,=C:\Projetos Delphi\BlockWeb\Win64\svchost.exe.rc</Transaction>
+    <Transaction>2013/04/24 21:14:28.395,=C:\Projetos Delphi\BlockWeb\Win32\svchost.exe.rc</Transaction>
+    <Transaction>2013/04/24 21:34:35.212,C:\Projetos Delphi\BlockWeb\Win64\svchost.exe.rc=</Transaction>
+    <Transaction>2013/04/24 21:34:45.259,=C:\Projetos Delphi\BlockWeb\Win32\administrator.rc</Transaction>
+    <Transaction>2013/04/24 21:34:56.372,=C:\Projetos Delphi\BlockWeb\Win64\administrator.rc</Transaction>
+  </Transactions>
+</BorlandProject>
